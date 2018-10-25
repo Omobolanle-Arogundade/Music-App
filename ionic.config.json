@@ -1,0 +1,7 @@
+{
+  "name": "Quick-Play",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
